@@ -1,1 +1,1 @@
-<img src="SeolMjBanner3.png">
+![Banner Image](SeolMjBanner3.png){width=100%}
